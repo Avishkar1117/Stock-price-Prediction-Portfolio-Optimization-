@@ -1,5 +1,6 @@
 # Stock-price-Prediction-Portfolio-Optimization-
-Course: Application of Data Science in Finance (AI5247) Institution: Hochschule Fulda – University of Applied Sciences Timeline: September 15 – September 25, 2025 
+Course: Application of Data Science in Finance (AI5247) Institution: Hochschule Fulda – University of Applied Sciences Timeline: September 15 – September 26, 2025 
+By- Avishkar Sanjay Potale & Yash Sharma
 Final Grade: 1.0 (Excellent)
 
 # Project Overview
